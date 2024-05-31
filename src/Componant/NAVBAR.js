@@ -23,7 +23,7 @@ export default function NAVBAR() {
         </li>
         <li>
          
-         <Link className='text-white sm:pl-7 sm:mb-10 text-base  md:p-2 lg:p-10 uppercase hover:text-[#78F9FD]' to="/Services">Services</Link>
+         <Link className='text-white sm:pl-7 sm:mb-10 text-base  md:p-2 lg:p-10 uppercase hover:text-[#78F9FD]' to="/Services">Our Services</Link>
         </li>
         
         <li>
